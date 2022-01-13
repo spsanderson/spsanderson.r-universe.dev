@@ -1,0 +1,21 @@
+[
+    {
+        "package": "healthyR",
+        "url": "https://github.com/spsanderson/healthyR"
+    },
+    {
+        "package": "healthyR.data",
+        "url": "https://github.com/spsanderson/healthyR.data"
+    },
+    {
+        "package": "healthyR.ts",
+        "url": "https://github.com/spsanderson/healthyR.ts"
+    },
+    {
+        "package": "healthyR.ai",
+        "url": "https://github.com/spsanderson/healthyR.ai"
+    },
+    {
+        "package": "healthyverse",
+        "url": "https://github.com/spsanderson/healthyverse"
+]
