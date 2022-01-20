@@ -18,5 +18,9 @@
     {
         "package": "healthyverse",
         "url": "https://github.com/spsanderson/healthyverse"
+    },
+    {
+        "package": "TidyDensity",
+        "url": "https://github.com/spsanderson/TidyDensity"
     }
 ]
