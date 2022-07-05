@@ -22,5 +22,9 @@
     {
         "package": "TidyDensity",
         "url": "https://github.com/spsanderson/TidyDensity"
+    },
+    {
+        "package": "BRVM",
+        "url": "https://github.com/Koffi-Fredysessie/BRVM"
     }
 ]
