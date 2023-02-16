@@ -26,5 +26,8 @@
     {
         "package": "BRVM",
         "url": "https://github.com/Koffi-Fredysessie/BRVM"
-    }
+    },
+    {
+        "package": "tidyAML",
+        "url": "https//github.com/spsanderson/tidyAML"
 ]
