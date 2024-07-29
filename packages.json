@@ -30,5 +30,9 @@
     {
         "package": "tidyAML",
         "url": "https://github.com/spsanderson/tidyAML"
+    },
+    {
+        "package": "RandomWalker",
+        "url": "https://github.com/spsanderson/RandomWalker"
     }
 ]
